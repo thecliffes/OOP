@@ -1,16 +1,3 @@
-/*
-SPECIFIC FEEDBACK
->Named all the varaiables appropriatly to make sure they were as helpful as possible
->Made sure that all indentations were correct 
->put comments talking about block code before the code
-
-RUBIC CUBE FEEDBACK
-For identifiers in CW1 i got level 2 so to ensure i get level 3 this time all variables are named
-appropriatly and clearly
-
-For comments in CW2 i got level 2 so to ensure i get level 3 for this CW i have tried comments
-everything necessary and not do it excessivly 
-*/
 public class SolarSystem{
 	private String name; //holds name of solar system
 	private double luminosity; //holds luminosity of star of solar system
